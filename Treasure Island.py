@@ -46,13 +46,13 @@ else:
     
 if go == 0:
     print('''
-          You turn left and make your way down an overgrown path towards
-          empty darkness. Wait! You see something glitter at the end, could 
-          it be the treasure or another trap. But between you and the 
-          glittering prizes you realise is a river you need to cross.
+You turn left and make your way down an overgrown path towards
+empty darkness. Wait! You see something glitter at the end, could 
+it be the treasure or another trap. But between you and the 
+glittering prizes you realise is a river you need to cross.
           
-          Do you swim or abandon you quest?
-                 ----    -------
+Do you swim or abandon you quest?
+       ----    -------
                  
           ''')
     swim = input().lower()
@@ -63,10 +63,10 @@ if go == 0:
         
 if go == 0:
     print('''
-          You abandon the quest, and sit on a rock to think about your 
-          next move. Suddenly the rock sinks into the sand and with an 
-          earth shattering sound a cave opens up in the cliff
-          revealing Captain Easy Clap's treasure.
+You abandon the quest, and sit on a rock to think about your 
+next move. Suddenly the rock sinks into the sand and with an 
+earth shattering sound a cave opens up in the cliff
+revealing Captain Easy Clap's treasure.
           
           ''')
 else:
